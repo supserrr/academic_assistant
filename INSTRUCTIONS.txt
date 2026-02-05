@@ -1,0 +1,7 @@
+ALU Academic Assistant – Assignments screen package
+
+1. Open the Flutter project (folder containing lib/, pubspec.yaml).
+2. Copy the file(s) from this folder into the project:
+   - assignments_screen.dart  →  lib/screens/assignments_screen.dart
+3. (Optional) Run: flutter pub get
+4. Your part: you own the Assignments screen. The app shell in lib/app.dart already uses it; do not change file names or the screen's constructor.
