@@ -1,7 +1,0 @@
-ALU Academic Assistant – Theme package
-
-1. Open the Flutter project (folder containing lib/, pubspec.yaml).
-2. Copy the file(s) from this folder into the project:
-   - app_theme.dart  →  lib/theme/app_theme.dart
-3. (Optional) Run: flutter pub get
-4. Your part: you own the app theme. main.dart uses AppTheme.theme for the MaterialApp; do not change the class name or the theme getter.
